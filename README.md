@@ -5,9 +5,9 @@
 ![Tech](https://img.shields.io/badge/tech-HTML5%20Canvas%20%7C%20Vanilla%20JS-indigo)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**Live Demo:** [View Live Studio on GitHub Pages](https://github.io/) *(Update this link once hosted)*
+**Live Demo:** [View Live Studio on GitHub Pages/](https://kalibro-dev.github.io/Bulk-Png-Auto_Cut-Out/))
 
----
+--
 
 ## 📌 Executive Summary & Operational Context
 
